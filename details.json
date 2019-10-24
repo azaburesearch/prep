@@ -1,0 +1,16 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "",
+      "logo_1024": ""
+    }
+  },
+  "server": {
+    "location": {
+        "country": "Singapore",
+        "city": "Singapore"
+    },
+    "server_type": "cloud",
+    "api_endpoint": ":9000"
+  }
+}
