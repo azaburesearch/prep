@@ -1,8 +1,8 @@
 {
   "representative": {
     "logo": {
-      "logo_256": "",
-      "logo_1024": ""
+      "logo_256": "https://github.com/azaburesearch/prep/raw/master/azabu_research_256px.png",
+      "logo_1024": "https://github.com/azaburesearch/prep/raw/master/azabu_research_512px.png"
     }
   },
   "server": {
