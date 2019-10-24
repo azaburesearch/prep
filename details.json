@@ -11,6 +11,6 @@
         "city": "Singapore"
     },
     "server_type": "cloud",
-    "api_endpoint": ":9000"
+    "api_endpoint": "34.70.164.167:9000"
   }
 }
